@@ -1,4 +1,4 @@
-# Bitmap Image Rotation V1.0
+# Bitmap Image Rotator V1.0
 
 A new adventure with binary data. This time, with no libraries and for the love of reinventing the wheel, I worked on a Python program that rotates a given bitmap (BMP) image by 90 degrees clockwise. The script reads the input image file, processes the pixel data to perform the rotation, and writes the rotated pixel data to a new BMP file named `output.bmp`.
 
